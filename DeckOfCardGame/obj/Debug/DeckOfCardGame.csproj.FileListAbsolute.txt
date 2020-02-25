@@ -1,0 +1,7 @@
+C:\Users\Krishna Prasad\source\repos\DeckOfCardGame\DeckOfCardGame\bin\Debug\DeckOfCardGame.exe.config
+C:\Users\Krishna Prasad\source\repos\DeckOfCardGame\DeckOfCardGame\bin\Debug\DeckOfCardGame.exe
+C:\Users\Krishna Prasad\source\repos\DeckOfCardGame\DeckOfCardGame\bin\Debug\DeckOfCardGame.pdb
+C:\Users\Krishna Prasad\source\repos\DeckOfCardGame\DeckOfCardGame\obj\Debug\DeckOfCardGame.csprojAssemblyReference.cache
+C:\Users\Krishna Prasad\source\repos\DeckOfCardGame\DeckOfCardGame\obj\Debug\DeckOfCardGame.csproj.CoreCompileInputs.cache
+C:\Users\Krishna Prasad\source\repos\DeckOfCardGame\DeckOfCardGame\obj\Debug\DeckOfCardGame.exe
+C:\Users\Krishna Prasad\source\repos\DeckOfCardGame\DeckOfCardGame\obj\Debug\DeckOfCardGame.pdb
